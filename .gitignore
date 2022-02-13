@@ -13,3 +13,6 @@ data_*/
 
 # Wakatime-specific ignores
 /wakatime
+wakatime_logo.jpg
+wakatime_logo.jpg.import
+
